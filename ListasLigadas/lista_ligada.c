@@ -5,7 +5,7 @@
 
 void cria(t_lista *lista)
 {
-  *lista = NULL;
+  *lista =  NULL;
 }
 
 void insere_primeiro(t_lista *lista, t_item item)
