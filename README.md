@@ -15,3 +15,5 @@ Aula 3 1/2 - Listas Estaticas com Realloc (pasta Lista Realloc)
 Aula 4 e 4 1/2 - Listas Ligadas (pasta ListasLigadas)
 
 Aula 5 - Pilhas (pasta Pilhas)
+
+Aula 8 - Árvores binárias de busca (pasta ABB)
